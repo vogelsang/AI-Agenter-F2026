@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+/.vscode/
+__pycache__/
+*.pdf
+*.html

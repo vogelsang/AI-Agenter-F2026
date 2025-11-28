@@ -1,0 +1,24 @@
+---
+title: "Lecture 1: Agents"
+format: revealjs
+---
+
+## What is an Agent?
+
+*   **Sensors:** Eyes, Ears, Keyboards
+*   **Actuators:** Hands, Legs, Screens
+*   **Environment:** The physical or virtual world
+
+test
+
+---
+
+## The Math
+
+$$ f: P^* \rightarrow A $$
+
+---
+
+## Architecture
+
+![System Diagram](../assets/architecture.png)

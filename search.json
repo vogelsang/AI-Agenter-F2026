@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI-Agenter-F2026",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "slides/week1.html#what-is-an-agent",
     "href": "slides/week1.html#what-is-an-agent",
     "title": "Lecture 1: Agents",
@@ -33,5 +19,19 @@
     "title": "Lecture 1: Agents",
     "section": "Architecture",
     "text": "Architecture\n\n\n\nSystem Diagram"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

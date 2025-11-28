@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/slides/week1.html</loc>
-    <lastmod>2025-11-28T11:50:42.192Z</lastmod>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/modules/index.html</loc>
+    <lastmod>2025-11-28T12:17:40.928Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/web/week1.html</loc>
-    <lastmod>2025-11-28T11:50:42.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/index.html</loc>
-    <lastmod>2025-11-28T11:50:42.192Z</lastmod>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/slides/index.html</loc>
+    <lastmod>2025-11-28T12:17:40.928Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/AI-Agenter-F2026/about.html</loc>
-    <lastmod>2025-11-28T11:50:42.192Z</lastmod>
+    <lastmod>2025-11-28T12:17:40.928Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/web/week1.html</loc>
+    <lastmod>2025-11-28T12:17:40.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/index.html</loc>
+    <lastmod>2025-11-28T12:17:40.928Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/web/index.html</loc>
+    <lastmod>2025-11-28T12:17:40.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/slides/week1.html</loc>
+    <lastmod>2025-11-28T12:17:40.928Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/slides/test.html</loc>
+    <lastmod>2025-11-28T12:17:40.928Z</lastmod>
   </url>
 </urlset>

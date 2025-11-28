@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "modules/index.html",
+    "href": "modules/index.html",
+    "title": "Modules",
+    "section": "",
+    "text": "This section contains the course modules."
+  },
+  {
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "Slides",
+    "section": "",
+    "text": "This section contains the course slides."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources."
+  },
+  {
+    "objectID": "about.html#about-this-course",
+    "href": "about.html#about-this-course",
+    "title": "About",
+    "section": "",
+    "text": "This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor any questions about the course, please contact the instructor at:\n\nEmail: instructor@example.com\nOffice: Building A, Room 123"
+  },
+  {
+    "objectID": "web/week1.html",
+    "href": "web/week1.html",
+    "title": "Module 1: Agent Theory",
+    "section": "",
+    "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
+  },
+  {
+    "objectID": "web/week1.html#introduction",
+    "href": "web/week1.html#introduction",
+    "title": "Module 1: Agent Theory",
+    "section": "",
+    "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
+  },
+  {
+    "objectID": "web/week1.html#the-agent-function",
+    "href": "web/week1.html#the-agent-function",
+    "title": "Module 1: Agent Theory",
+    "section": "The Agent Function",
+    "text": "The Agent Function\nMathematically, the agent function maps percept sequences to actions:\n\\[ f: P^* \\rightarrow A \\]\n\n\n\nSystem Diagram"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to AI-Agenter-F2026",
+    "section": "",
+    "text": "This is the official course website for AI-Agenter-F2026. Here you will find all the necessary information and materials for the course."
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Welcome to AI-Agenter-F2026",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course provides an introduction to the exciting world of AI agents. We will explore the fundamental concepts, algorithms, and techniques used to build intelligent agents that can perceive their environment, make decisions, and take actions to achieve their goals."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Welcome to AI-Agenter-F2026",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nModules\nSlides\nWeb Resources"
+  },
+  {
+    "objectID": "web/index.html",
+    "href": "web/index.html",
+    "title": "Web Resources",
+    "section": "",
+    "text": "This section contains web resources related to the course."
+  },
+  {
     "objectID": "slides/week1.html#what-is-an-agent",
     "href": "slides/week1.html#what-is-an-agent",
     "title": "Lecture 1: Agents",
@@ -21,17 +105,17 @@
     "text": "Architecture\n\n\n\nSystem Diagram"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI-Agenter-F2026",
+    "objectID": "slides/test.html",
+    "href": "slides/test.html",
+    "title": "Module 1: Agent Theory",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "… ## Learning Objectives\nBy the end of this module, you will be able to: - Define what an agent is in the context of artificial intelligence. - Differentiate between various types of agents (e.g., simple reflex agents, model-based agents"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "slides/test.html#introduction",
+    "href": "slides/test.html#introduction",
+    "title": "Module 1: Agent Theory",
     "section": "",
-    "text": "About this site"
+    "text": "… ## Learning Objectives\nBy the end of this module, you will be able to: - Define what an agent is in the context of artificial intelligence. - Differentiate between various types of agents (e.g., simple reflex agents, model-based agents"
   }
 ]

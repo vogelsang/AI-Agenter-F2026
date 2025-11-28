@@ -1,0 +1,5 @@
+---
+title: "Slides"
+---
+
+This section contains the course slides.

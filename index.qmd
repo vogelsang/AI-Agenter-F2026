@@ -1,7 +1,15 @@
 ---
-title: "AI-Agenter-F2026"
+title: "Welcome to AI-Agenter-F2026"
 ---
 
-This is a Quarto website.
+This is the official course website for AI-Agenter-F2026. Here you will find all the necessary information and materials for the course.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Course Overview
+
+This course provides an introduction to the exciting world of AI agents. We will explore the fundamental concepts, algorithms, and techniques used to build intelligent agents that can perceive their environment, make decisions, and take actions to achieve their goals.
+
+## Quick Links
+
+- [Modules](modules/index.qmd)
+- [Slides](slides/index.qmd)
+- [Web Resources](web/index.qmd)

@@ -10,15 +10,28 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - text: "Modules"
+        href: modules/index.qmd
+      - text: "Slides"
+        href: slides/index.qmd
+      - text: "Web Resources"
+        href: web/index.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - zephyr
       - brand
+    mainfont: "Source Sans Pro"
+    monofont: "Fira Mono"
     css: styles.css
     toc: true
+
+publish:
+  exclude:
+    - "documentation"
 
 
 

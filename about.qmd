@@ -2,4 +2,13 @@
 title: "About"
 ---
 
-About this site
+## About This Course
+
+This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources.
+
+## Contact
+
+For any questions about the course, please contact the instructor at:
+
+- **Email**: instructor@example.com
+- **Office**: Building A, Room 123

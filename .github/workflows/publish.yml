@@ -15,10 +15,9 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
-      # This installs Typst automatically if you use it!
-      - name: Install TinyTeX (Optional, but good for backups)
-        uses: quarto-dev/quarto-actions/setup-tinytex@v2
+        with:
+          version: pre-release
+          tinytex: true
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "modules/index.html",
-    "href": "modules/index.html",
-    "title": "Modules",
+    "objectID": "modules/week08-module.html",
+    "href": "modules/week08-module.html",
+    "title": "Module for Week 08",
     "section": "",
-    "text": "This section contains the course modules."
+    "text": "Module for Week 08"
+  },
+  {
+    "objectID": "modules/week09-module.html",
+    "href": "modules/week09-module.html",
+    "title": "Module for Week 09",
+    "section": "",
+    "text": "Module for Week 09"
+  },
+  {
+    "objectID": "modules/week10-module.html",
+    "href": "modules/week10-module.html",
+    "title": "Module for Week 10",
+    "section": "",
+    "text": "Module for Week 10"
+  },
+  {
+    "objectID": "modules/week05-module.html",
+    "href": "modules/week05-module.html",
+    "title": "Module for Week 05",
+    "section": "",
+    "text": "Module for Week 05"
+  },
+  {
+    "objectID": "modules/week06-module.html",
+    "href": "modules/week06-module.html",
+    "title": "Module for Week 06",
+    "section": "",
+    "text": "Module for Week 06"
+  },
+  {
+    "objectID": "modules/week07-module.html",
+    "href": "modules/week07-module.html",
+    "title": "Module for Week 07",
+    "section": "",
+    "text": "Module for Week 07"
   },
   {
     "objectID": "docs/structure.html",
@@ -28,39 +63,32 @@
     "text": "AI can fil in the rest of the setup here"
   },
   {
+    "objectID": "slides/week10-slides.html",
+    "href": "slides/week10-slides.html",
+    "title": "Slides for Week 10",
+    "section": "",
+    "text": "Slides for Week 10"
+  },
+  {
+    "objectID": "slides/week03-slides.html",
+    "href": "slides/week03-slides.html",
+    "title": "Slides for Week 03",
+    "section": "",
+    "text": "Slides for Week 03"
+  },
+  {
+    "objectID": "slides/week02-slides.html",
+    "href": "slides/week02-slides.html",
+    "title": "Slides for Week 02",
+    "section": "",
+    "text": "Slides for Week 02"
+  },
+  {
     "objectID": "slides/index.html",
     "href": "slides/index.html",
     "title": "Slides",
     "section": "",
     "text": "This section contains the course slides."
-  },
-  {
-    "objectID": "web/index.html",
-    "href": "web/index.html",
-    "title": "Web Resources",
-    "section": "",
-    "text": "This section contains web resources related to the course."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to AI-Agenter-F2026",
-    "section": "",
-    "text": "This is the official course website for AI-Agenter-F2026. Here you will find all the necessary information and materials for the course."
-  },
-  {
-    "objectID": "index.html#course-overview",
-    "href": "index.html#course-overview",
-    "title": "Welcome to AI-Agenter-F2026",
-    "section": "Course Overview",
-    "text": "Course Overview\nThis course provides an introduction to the exciting world of AI agents. We will explore the fundamental concepts, algorithms, and techniques used to build intelligent agents that can perceive their environment, make decisions, and take actions to achieve their goals."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Welcome to AI-Agenter-F2026",
-    "section": "Quick Links",
-    "text": "Quick Links\n\nModules\nSlides\nWeb Resources"
   },
   {
     "objectID": "about.html",
@@ -84,6 +112,97 @@
     "text": "Contact\nFor any questions about the course, please contact the instructor at:\n\nEmail: instructor@example.com\nOffice: Building A, Room 123"
   },
   {
+    "objectID": "web/about.html",
+    "href": "web/about.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "ABOUT"
+  },
+  {
+    "objectID": "web/literature.html",
+    "href": "web/literature.html",
+    "title": "LITERATURE",
+    "section": "",
+    "text": "LITERATURE"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to AI-Agenter-F2026",
+    "section": "",
+    "text": "This is the official course website for AI-Agenter-F2026. Here you will find all the necessary information and materials for the course."
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Welcome to AI-Agenter-F2026",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course provides an introduction to the exciting world of AI agents. We will explore the fundamental concepts, algorithms, and techniques used to build intelligent agents that can perceive their environment, make decisions, and take actions to achieve their goals."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Welcome to AI-Agenter-F2026",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nModules\nSlides\nWeb Resources"
+  },
+  {
+    "objectID": "web/index.html",
+    "href": "web/index.html",
+    "title": "Web Resources",
+    "section": "",
+    "text": "This section contains web resources related to the course."
+  },
+  {
+    "objectID": "web/final-exam.html",
+    "href": "web/final-exam.html",
+    "title": "FINAL EXAM",
+    "section": "",
+    "text": "FINAL EXAM"
+  },
+  {
+    "objectID": "slides/week05-slides.html",
+    "href": "slides/week05-slides.html",
+    "title": "Slides for Week 05",
+    "section": "",
+    "text": "Slides for Week 05"
+  },
+  {
+    "objectID": "slides/week08-slides.html",
+    "href": "slides/week08-slides.html",
+    "title": "Slides for Week 08",
+    "section": "",
+    "text": "Slides for Week 08"
+  },
+  {
+    "objectID": "slides/week06-slides.html",
+    "href": "slides/week06-slides.html",
+    "title": "Slides for Week 06",
+    "section": "",
+    "text": "Slides for Week 06"
+  },
+  {
+    "objectID": "slides/week09-slides.html",
+    "href": "slides/week09-slides.html",
+    "title": "Slides for Week 09",
+    "section": "",
+    "text": "Slides for Week 09"
+  },
+  {
+    "objectID": "slides/week07-slides.html",
+    "href": "slides/week07-slides.html",
+    "title": "Slides for Week 07",
+    "section": "",
+    "text": "Slides for Week 07"
+  },
+  {
+    "objectID": "slides/week04-slides.html",
+    "href": "slides/week04-slides.html",
+    "title": "Slides for Week 04",
+    "section": "",
+    "text": "Slides for Week 04"
+  },
+  {
     "objectID": "literature/index.html",
     "href": "literature/index.html",
     "title": "Literature",
@@ -91,24 +210,52 @@
     "text": "Literature in md files"
   },
   {
-    "objectID": "modules/week1-module.html",
-    "href": "modules/week1-module.html",
+    "objectID": "modules/index.html",
+    "href": "modules/index.html",
+    "title": "Modules",
+    "section": "",
+    "text": "This section contains the course modules."
+  },
+  {
+    "objectID": "modules/week01-module.html",
+    "href": "modules/week01-module.html",
     "title": "Module 1: Agent Theory",
     "section": "",
     "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
   },
   {
-    "objectID": "modules/week1-module.html#introduction",
-    "href": "modules/week1-module.html#introduction",
+    "objectID": "modules/week01-module.html#introduction",
+    "href": "modules/week01-module.html#introduction",
     "title": "Module 1: Agent Theory",
     "section": "",
     "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
   },
   {
-    "objectID": "modules/week1-module.html#the-agent-function",
-    "href": "modules/week1-module.html#the-agent-function",
+    "objectID": "modules/week01-module.html#the-agent-function",
+    "href": "modules/week01-module.html#the-agent-function",
     "title": "Module 1: Agent Theory",
     "section": "The Agent Function",
     "text": "The Agent Function\nMathematically, the agent function maps percept sequences to actions:\n\\[ f: P^* \\rightarrow A \\]\n\n\n\nSystem Diagram"
+  },
+  {
+    "objectID": "modules/week03-module.html",
+    "href": "modules/week03-module.html",
+    "title": "Module for Week 03",
+    "section": "",
+    "text": "Module for Week 03"
+  },
+  {
+    "objectID": "modules/week04-module.html",
+    "href": "modules/week04-module.html",
+    "title": "Module for Week 04",
+    "section": "",
+    "text": "Module for Week 04"
+  },
+  {
+    "objectID": "modules/week02-module.html",
+    "href": "modules/week02-module.html",
+    "title": "Module for Week 02",
+    "section": "",
+    "text": "Module for Week 02"
   }
 ]

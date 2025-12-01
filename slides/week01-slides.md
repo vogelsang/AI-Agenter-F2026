@@ -1,30 +1,46 @@
 ---
-title: "Module 1: Agent Theory"
-draft: false
-format:
-  # 1. The Website Output
-  html:
-    toc: true
-    number-sections: true
-  
-  # 2. The Typst PDF Output
-  typst:
-    toc: true
-    number-sections: true
-    cols: 1  # Set to 2 if you want a scientific paper look
+title: "Week 1: Introduction to AI Agents"
+author: "Your Name"
+format: 
+  revealjs:
+    theme: night
+    incremental: true
+    chalkboard: true
+    notes-sep: "Notes:"
 ---
 
-## Introduction
-...
+# Introduction to AI Agents
 
-## Learning Objectives
+### Course Overview
 
-By the end of this module, you will be able to:
-- Define what an agent is in the context of artificial intelligence.
-- Differentiate between various types of agents (e.g., simple reflex agents, model-based agents
+---
 
-## ANother slide i pressume
+## What is an AI Agent?
 
-Here is something for the slide
+<div class="incremental">
 
-How do I make a course toc?
+-   An entity that perceives its environment.
+-   It makes decisions.
+-   It takes actions to achieve a goal.
+
+</div>
+
+Notes:
+This is a speaker note. Press 'S' on your keyboard to see this view.
+
+---
+
+## Core Components
+
+Here we can add a diagram or an image.
+
+![Diagram of an agent's components.](https://via.placeholder.com/600x400.png?text=Agent+Diagram+Placeholder)
+
+---
+
+## Using These Slides
+
+-   Press 'F' for fullscreen.
+-   Press 'S' to see speaker notes.
+-   Press 'E' then 'P' to print to PDF for students.
+-   Press '?' to see all shortcuts.

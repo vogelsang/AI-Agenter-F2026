@@ -46,11 +46,7 @@ website:
 
 format:
   html:
-    theme:
-      - zephyr
-      - brand
-    mainfont: "Source Sans Pro"
-    monofont: "Fira Mono"
+    theme: darkly
     css: styles.css
     toc: true
 

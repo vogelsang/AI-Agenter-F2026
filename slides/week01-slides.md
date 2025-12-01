@@ -1,6 +1,6 @@
 ---
 title: "Module 1: Agent Theory"
-draft: true
+draft: false
 format:
   # 1. The Website Output
   html:

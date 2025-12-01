@@ -1,5 +1,5 @@
 ---
-title: "Module 1: Agent Theory"
+title: "Week 1: Introducion"
 format: html
 ---
 
@@ -9,6 +9,3 @@ An agent is anything that can be viewed as perceiving its environment through se
 ## The Agent Function
 Mathematically, the agent function maps percept sequences to actions:
 
-$$ f: P^* \rightarrow A $$
-
-![System Diagram](../assets/architecture.png)

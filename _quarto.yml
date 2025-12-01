@@ -46,7 +46,7 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: Slate
     css: styles.css
     toc: true
 

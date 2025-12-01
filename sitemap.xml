@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/modules/week2-module.html</loc>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
+  </url>
+  <url>
     <loc>https://vogelsang.github.io/AI-Agenter-F2026/modules/index.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/docs/structure.html</loc>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/AI-Agenter-F2026/slides/index.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/about.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/web/week1.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/index.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
   </url>
   <url>
     <loc>https://vogelsang.github.io/AI-Agenter-F2026/web/index.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
+    <lastmod>2025-12-01T13:03:36.457Z</lastmod>
   </url>
   <url>
-    <loc>https://vogelsang.github.io/AI-Agenter-F2026/slides/week1.html</loc>
-    <lastmod>2025-12-01T12:54:14.028Z</lastmod>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/index.html</loc>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/about.html</loc>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/literature/index.html</loc>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vogelsang.github.io/AI-Agenter-F2026/modules/week1-module.html</loc>
+    <lastmod>2025-12-01T13:03:36.456Z</lastmod>
   </url>
 </urlset>

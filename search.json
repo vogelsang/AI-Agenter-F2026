@@ -7,6 +7,27 @@
     "text": "This section contains the course modules."
   },
   {
+    "objectID": "docs/structure.html",
+    "href": "docs/structure.html",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "I will have the following areas of content: - SLides- what i use to present in the lectures - Modules - each module is one days lectures (3.5 hours) - the student needs descriptions, what to read etc. - Web - other pages that do not fit in the first two categories - e.g. Course background, finals, literature, etc."
+  },
+  {
+    "objectID": "docs/structure.html#structure-human-area---dont-touch",
+    "href": "docs/structure.html#structure-human-area---dont-touch",
+    "title": "AI-Agenter-F2026",
+    "section": "",
+    "text": "I will have the following areas of content: - SLides- what i use to present in the lectures - Modules - each module is one days lectures (3.5 hours) - the student needs descriptions, what to read etc. - Web - other pages that do not fit in the first two categories - e.g. Course background, finals, literature, etc."
+  },
+  {
+    "objectID": "docs/structure.html#ai-can-fil-in-the-rest-of-the-setup-here",
+    "href": "docs/structure.html#ai-can-fil-in-the-rest-of-the-setup-here",
+    "title": "AI-Agenter-F2026",
+    "section": "AI can fil in the rest of the setup here",
+    "text": "AI can fil in the rest of the setup here"
+  },
+  {
     "objectID": "slides/index.html",
     "href": "slides/index.html",
     "title": "Slides",
@@ -14,46 +35,11 @@
     "text": "This section contains the course slides."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "web/index.html",
+    "href": "web/index.html",
+    "title": "Web Resources",
     "section": "",
-    "text": "This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources."
-  },
-  {
-    "objectID": "about.html#about-this-course",
-    "href": "about.html#about-this-course",
-    "title": "About",
-    "section": "",
-    "text": "This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nFor any questions about the course, please contact the instructor at:\n\nEmail: instructor@example.com\nOffice: Building A, Room 123"
-  },
-  {
-    "objectID": "web/week1.html",
-    "href": "web/week1.html",
-    "title": "Module 1: Agent Theory",
-    "section": "",
-    "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
-  },
-  {
-    "objectID": "web/week1.html#introduction",
-    "href": "web/week1.html#introduction",
-    "title": "Module 1: Agent Theory",
-    "section": "",
-    "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
-  },
-  {
-    "objectID": "web/week1.html#the-agent-function",
-    "href": "web/week1.html#the-agent-function",
-    "title": "Module 1: Agent Theory",
-    "section": "The Agent Function",
-    "text": "The Agent Function\nMathematically, the agent function maps percept sequences to actions:\n\\[ f: P^* \\rightarrow A \\]\n\n\n\nSystem Diagram"
+    "text": "This section contains web resources related to the course."
   },
   {
     "objectID": "index.html",
@@ -77,31 +63,52 @@
     "text": "Quick Links\n\nModules\nSlides\nWeb Resources"
   },
   {
-    "objectID": "web/index.html",
-    "href": "web/index.html",
-    "title": "Web Resources",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This section contains web resources related to the course."
+    "text": "This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources."
   },
   {
-    "objectID": "slides/week1.html#what-is-an-agent",
-    "href": "slides/week1.html#what-is-an-agent",
-    "title": "Lecture 1: Agents",
-    "section": "What is an Agent?",
-    "text": "What is an Agent?\n\nSensors: Eyes, Ears, Keyboards\nActuators: Hands, Legs, Screens\nEnvironment: The physical or virtual world\n\ntest"
+    "objectID": "about.html#about-this-course",
+    "href": "about.html#about-this-course",
+    "title": "About",
+    "section": "",
+    "text": "This website is for the AI-Agenter-F2026 course. Here you will find all the course materials, including slides, modules, and web resources."
   },
   {
-    "objectID": "slides/week1.html#the-math",
-    "href": "slides/week1.html#the-math",
-    "title": "Lecture 1: Agents",
-    "section": "The Math",
-    "text": "The Math\n\\[ f: P^* \\rightarrow A \\]"
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor any questions about the course, please contact the instructor at:\n\nEmail: instructor@example.com\nOffice: Building A, Room 123"
   },
   {
-    "objectID": "slides/week1.html#architecture",
-    "href": "slides/week1.html#architecture",
-    "title": "Lecture 1: Agents",
-    "section": "Architecture",
-    "text": "Architecture\n\n\n\nSystem Diagram"
+    "objectID": "literature/index.html",
+    "href": "literature/index.html",
+    "title": "Literature",
+    "section": "",
+    "text": "Literature in md files"
+  },
+  {
+    "objectID": "modules/week1-module.html",
+    "href": "modules/week1-module.html",
+    "title": "Module 1: Agent Theory",
+    "section": "",
+    "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
+  },
+  {
+    "objectID": "modules/week1-module.html#introduction",
+    "href": "modules/week1-module.html#introduction",
+    "title": "Module 1: Agent Theory",
+    "section": "",
+    "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators."
+  },
+  {
+    "objectID": "modules/week1-module.html#the-agent-function",
+    "href": "modules/week1-module.html#the-agent-function",
+    "title": "Module 1: Agent Theory",
+    "section": "The Agent Function",
+    "text": "The Agent Function\nMathematically, the agent function maps percept sequences to actions:\n\\[ f: P^* \\rightarrow A \\]\n\n\n\nSystem Diagram"
   }
 ]

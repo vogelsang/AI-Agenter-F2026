@@ -87,6 +87,50 @@
     "text": "AI can fil in the rest of the setup here"
   },
   {
+    "objectID": "slides/week01-slides.html",
+    "href": "slides/week01-slides.html",
+    "title": "Module 1: Agent Theory",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Slides",
+      "Module 1: Agent Theory"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#introduction",
+    "href": "slides/week01-slides.html#introduction",
+    "title": "Module 1: Agent Theory",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Slides",
+      "Module 1: Agent Theory"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#learning-objectives",
+    "href": "slides/week01-slides.html#learning-objectives",
+    "title": "Module 1: Agent Theory",
+    "section": "2 Learning Objectives",
+    "text": "2 Learning Objectives\nBy the end of this module, you will be able to: - Define what an agent is in the context of artificial intelligence. - Differentiate between various types of agents (e.g., simple reflex agents, model-based agents",
+    "crumbs": [
+      "Slides",
+      "Module 1: Agent Theory"
+    ]
+  },
+  {
+    "objectID": "slides/week01-slides.html#another-slide-i-pressume",
+    "href": "slides/week01-slides.html#another-slide-i-pressume",
+    "title": "Module 1: Agent Theory",
+    "section": "3 ANother slide i pressume",
+    "text": "3 ANother slide i pressume\nHere is something for the slide\nHow do I make a course toc?",
+    "crumbs": [
+      "Slides",
+      "Module 1: Agent Theory"
+    ]
+  },
+  {
     "objectID": "slides/week10-slides.html",
     "href": "slides/week10-slides.html",
     "title": "Slides for Week 10",
@@ -311,34 +355,34 @@
   {
     "objectID": "modules/week01-module.html",
     "href": "modules/week01-module.html",
-    "title": "Module 1: Agent Theory",
+    "title": "Week 1: Introducion",
     "section": "",
     "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.",
     "crumbs": [
       "Modules",
-      "Module 1: Agent Theory"
+      "Week 1: Introducion"
     ]
   },
   {
     "objectID": "modules/week01-module.html#introduction",
     "href": "modules/week01-module.html#introduction",
-    "title": "Module 1: Agent Theory",
+    "title": "Week 1: Introducion",
     "section": "",
     "text": "An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.",
     "crumbs": [
       "Modules",
-      "Module 1: Agent Theory"
+      "Week 1: Introducion"
     ]
   },
   {
     "objectID": "modules/week01-module.html#the-agent-function",
     "href": "modules/week01-module.html#the-agent-function",
-    "title": "Module 1: Agent Theory",
+    "title": "Week 1: Introducion",
     "section": "The Agent Function",
-    "text": "The Agent Function\nMathematically, the agent function maps percept sequences to actions:\n\\[ f: P^* \\rightarrow A \\]\n\n\n\nSystem Diagram",
+    "text": "The Agent Function\nMathematically, the agent function maps percept sequences to actions:",
     "crumbs": [
       "Modules",
-      "Module 1: Agent Theory"
+      "Week 1: Introducion"
     ]
   },
   {

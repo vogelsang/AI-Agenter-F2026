@@ -10,18 +10,9 @@ https://quarto.org/docs/guide/
 ## Preview
 
 
-## Structure
+## Commands
 
-1. Write:
-- Open VS Code.
-- Edit web/01-agents.md (The Textbook).
-- Edit slides/01-agents.md (The Presentation).
-
-2. Preview:
-- Run quarto preview in the terminal.
-- Click the link to check your work.
-
-3. Publish:
+Publish:
 - git add .
 - git commit -m "Added week 2 content"
 - git push
@@ -33,7 +24,7 @@ At https://vogelsang.github.io/AI-Agenter-F2026/
 
 ## Configuration
 
-Running with Gihub action - hurray!
+Running with Github actions - hurray!
 
 
 ### Github (actions)

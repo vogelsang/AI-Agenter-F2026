@@ -6,18 +6,43 @@ editor:
     
 website:
   title: "AI-Agenter-F2026"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - text: "Modules"
-        href: modules/index.qmd
-      - text: "Slides"
-        href: slides/index.qmd
-      - text: "Web Resources"
-        href: web/index.qmd
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Course Information"
+        contents:
+          - href: index.qmd
+            text: Home
+          - href: about.qmd
+            text: About
+          - href: web/literature.md
+            text: Literature
+          - href: web/final-exam.md
+            text: Final Exam
+      - section: "Modules"
+        contents:
+          - modules/week01-module.md
+          - modules/week02-module.md
+          - modules/week03-module.md
+          - modules/week04-module.md
+          - modules/week05-module.md
+          - modules/week06-module.md
+          - modules/week07-module.md
+          - modules/week08-module.md
+          - modules/week09-module.md
+          - modules/week10-module.md
+      - section: "Slides"
+        contents:
+          - slides/week01-slides.md
+          - slides/week02-slides.md
+          - slides/week03-slides.md
+          - slides/week04-slides.md
+          - slides/week05-slides.md
+          - slides/week06-slides.md
+          - slides/week07-slides.md
+          - slides/week08-slides.md
+          - slides/week09-slides.md
+          - slides/week10-slides.md
 
 format:
   html:
@@ -32,6 +57,3 @@ format:
 publish:
   exclude:
     - "documentation"
-
-
-
